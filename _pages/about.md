@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,19 +13,24 @@ I received my PhD from Oregon State University, where I was fortunate to be advi
 
 Before joining OSU, I graduated with an M.S in Computer Science from Yale University and a B.Tech in Computer Science and Engineering from Indian Institute of Technology Ropar, India. At IIT Ropar my undergrad research was advised by Sudarshan Iyengar.
 
-Research Interests
-====
+#Research Interests
+#====
+#List all projects here
 
-List all projects here
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Privacy-Preserving Regular Expression Matching using NFA
+   Ning Luo, Chenkai Weng, Jaspal Singh, Gefei Tan, Ruzica Piskac, Mariana Raykova
+   ESORICS 2024
+- Malicious Secure, Structure-Aware Private Set Intersection
+   Gayathri Garimella, Mike Rosulek, Jaspal Singh
+   CRYPTO 2023
+1. Structure-Aware Private Set Intersection, With Applications to Fuzzy Matching
+   Gayathri Garimella, Mike Rosulek, Jaspal Singh
+   CRYPTO 2022
+2. Private set operations from oblivious switching
+   Gayathri Garimella, Payman Mohassel, Mike Rosulek, Saeed Sadeghian, Jaspal Singh
+   PKC 2021
 
 Site-wide configuration
 ------
